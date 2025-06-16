@@ -63,7 +63,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/discord-account-generator-bot.git
+   git clone https://github.com/gxqk/spec-x-gen-discord-bot.git
    cd discord-account-generator-bot
    ```
 
